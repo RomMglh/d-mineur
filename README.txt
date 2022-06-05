@@ -1,3 +1,5 @@
+Projet de Rayane Chafaqi et Romain Magalhaes
+
 COMPILEZ : make
 EXECUTER : ./game
 
